@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Student Task Tracker</title>
+    <title>Student Tasks Tracker</title>
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
